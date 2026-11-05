@@ -4,3 +4,7 @@ A continuación se listan las aportaciones de cada participante en su propia ram
 
 ---
 <!-- Agrega tu nombre y tu párrafo debajo de esta línea -->
+
+### Jamile
+Hola, mi nombre es **Jamile**. En esta primera actividad estoy practicando el flujo de trabajo colaborativo utilizando Git y GitHub. Mediante la creación de una rama propia (`rama-jamile`), la edición de archivos Markdown y el envío de un Pull Request, aprendo a integrar mis cambios al proyecto principal manteniendo buenas prácticas de control de versiones.
+
