@@ -1,0 +1,24 @@
+DOCUMENTACION DEL PROYECTO
+
+Integrante: Jamile
+
+Tema: Trabajo colaborativo con Git y GitHub.
+
+DESCRIPCION:
+Este proyecto permite practicar el uso de
+repositorios, ramas y control de versiones.
+
+CODIGO SIMULADO:
+
+INICIO
+    ESCRIBIR "Bienvenido al proyecto"
+    LEER nombre
+    ESCRIBIR "Hola ", nombre
+FIN
+
+ACTIVIDADES REALIZADAS:
+- Creacion de ramas.
+- Modificacion de archivos.
+- Registro de cambnnios mediante commits.
+- Subida de cambios mediante push.
+- Solicitud de revision mediante Pull Request.
